@@ -1,0 +1,6 @@
+.env 
+.venv
+*.tar.gz
+uv.lock
+.DS_Store
+model_artifact_path.txt
